@@ -22,31 +22,31 @@ Advanced Audio Steganography is a secure data-hiding application that uses the L
    
 # How It Works
 # Message Embedding
-User selects an audio file.
-A secret message is entered.
-The application converts the message into binary format.
-The Least Significant Bits of audio samples are modified to store the message.
-A new stego-audio file is generated.
+1. User selects an audio file.
+2. A secret message is entered.
+3. The application converts the message into binary format.
+4. The Least Significant Bits of audio samples are modified to store the message.
+5. A new stego-audio file is generated.
 # Message Extraction
-User selects the stego-audio file.
-The application reads the modified bits.
-Hidden data is reconstructed and displayed.
+1. User selects the stego-audio file.
+2. The application reads the modified bits.
+3. Hidden data is reconstructed and displayed.
 
 # Project Modules
 # Authentication Module
-User Registration
-User Login
-Credential Verification
+1. User Registration
+2. User Login
+3. Credential Verification
 # Hide Message Module
-Select Audio File
-Enter Secret Message
-Generate Stego Audio File
+1. Select Audio File
+2. Enter Secret Message
+3. Generate Stego Audio File
 # Extract Message Module
-Load Stego Audio File
-Recover Hidden Message
-Email Module
-Send confirmation emails
-Notify users after successful operations
+1. Load Stego Audio File
+2. Recover Hidden Message
+3. Email Module
+4. Send confirmation emails
+5. Notify users after successful operations
 
 # Project Outcome
 
