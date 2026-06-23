@@ -1,6 +1,10 @@
 # Audio-Steganography-using-LSB-Technique
 Developed an Audio Steganography application using the LSB technique to securely hide and extract secret messages in audio files. Features include user authentication, message embedding and retrieval, audio playback, and secure data transmission while maintaining audio quality.
 
+# Live Access Link
+
+https://smart-network-monitoring-and-traffic.onrender.com/
+
 # Overview
 Advanced Audio Steganography is a secure data-hiding application that uses the Least Significant Bit (LSB) technique to embed secret text messages within audio files. The project enables users to hide sensitive information in audio files without noticeably affecting audio quality.
 
